@@ -9,14 +9,15 @@ Proyecto Aplicaciones con Kotlin
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Contacto](#contacto)
 
-### Descripción
+### Descripción {#descripción-del-proyecto}
 ***
 * Proyecto de elaboracion de listas con inyeccion de datos en Android Studio (Recomended version: Giraffe | 2022.3.1) con lenguaje Kotlin.
-### Estado del proyecto
+  
+### Estado del proyecto {#estado-del-proyecto}
 ***
 👷 Proyecto Finalizado 👷
 
-### Funcionalidades del proyecto
+### Funcionalidades del proyecto {#funcionalidades-del-proyecto}
 ***
 * class MainActivity : ComponentActivity(): Esto define una clase llamada MainActivity que hereda de ComponentActivity, que es una clase base proporcionada por Android para las actividades de la aplicación.
   
@@ -43,3 +44,16 @@ Proyecto Aplicaciones con Kotlin
 * Conversation: Define una función componible que toma una lista de objetos Message como argumento. Representa una conversación de mensajes en la interfaz.
     * Box(modifier = Modifier.fillMaxSize()):Crea un contenedor Box que ocupa todo el espacio disponible en su contenedor padre. Esto se utiliza para establecer un fondo de pantalla para la conversación.
     * if (index % 2 == 0) { ... } else { ... }:Verifica si el índice del mensaje es par o impar para determinar si se debe mostrar a la izquierda o a la derecha de la conversación.
+ 
+### Tecnologias utilizadas {#tecnologías-utilizadas}
+***
+💻 
+* [Android Studio Giraffe | 2022.3.1]
+* [Lenguaje de programación: Kotlin] 
+* [Framework: Jetpack Compose]
+  
+💻
+
+### Contacto {#contacto}
+***
+📧 deisherrera@soy.sena.edu.co 📧
