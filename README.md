@@ -45,6 +45,9 @@ Proyecto Aplicaciones con Kotlin
     * Box(modifier = Modifier.fillMaxSize()):Crea un contenedor Box que ocupa todo el espacio disponible en su contenedor padre. Esto se utiliza para establecer un fondo de pantalla para la conversación.
     * if (index % 2 == 0) { ... } else { ... }:Verifica si el índice del mensaje es par o impar para determinar si se debe mostrar a la izquierda o a la derecha de la conversación.
  
+    ![hola](https://github.com/DeiviHerreraDiaz/ListJetpackCompose/assets/128943900/6b4fd08d-fbe8-481e-a562-fccbea22593b)
+
+ 
 ### Tecnologías utilizadas
 ***
 💻 
